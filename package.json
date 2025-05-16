@@ -2,7 +2,6 @@
 	"name": "eduardomcv.github.io",
 	"private": true,
 	"version": "0.0.1",
-	"homepage": "https://eduardomcv.github.io",
 	"type": "module",
 	"scripts": {
 		"dev": "vite dev",
